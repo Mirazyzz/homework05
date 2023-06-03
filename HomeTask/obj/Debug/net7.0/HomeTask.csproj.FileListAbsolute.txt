@@ -1,0 +1,15 @@
+C:\Users\del\OneDrive\Documents\GitHub\0000\0000\University\HomeTask\HomeTask\bin\Debug\net7.0\HomeTask.exe
+C:\Users\del\OneDrive\Documents\GitHub\0000\0000\University\HomeTask\HomeTask\bin\Debug\net7.0\HomeTask.deps.json
+C:\Users\del\OneDrive\Documents\GitHub\0000\0000\University\HomeTask\HomeTask\bin\Debug\net7.0\HomeTask.runtimeconfig.json
+C:\Users\del\OneDrive\Documents\GitHub\0000\0000\University\HomeTask\HomeTask\bin\Debug\net7.0\HomeTask.dll
+C:\Users\del\OneDrive\Documents\GitHub\0000\0000\University\HomeTask\HomeTask\bin\Debug\net7.0\HomeTask.pdb
+C:\Users\del\OneDrive\Documents\GitHub\0000\0000\University\HomeTask\HomeTask\obj\Debug\net7.0\HomeTask.csproj.AssemblyReference.cache
+C:\Users\del\OneDrive\Documents\GitHub\0000\0000\University\HomeTask\HomeTask\obj\Debug\net7.0\HomeTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\del\OneDrive\Documents\GitHub\0000\0000\University\HomeTask\HomeTask\obj\Debug\net7.0\HomeTask.AssemblyInfoInputs.cache
+C:\Users\del\OneDrive\Documents\GitHub\0000\0000\University\HomeTask\HomeTask\obj\Debug\net7.0\HomeTask.AssemblyInfo.cs
+C:\Users\del\OneDrive\Documents\GitHub\0000\0000\University\HomeTask\HomeTask\obj\Debug\net7.0\HomeTask.csproj.CoreCompileInputs.cache
+C:\Users\del\OneDrive\Documents\GitHub\0000\0000\University\HomeTask\HomeTask\obj\Debug\net7.0\HomeTask.dll
+C:\Users\del\OneDrive\Documents\GitHub\0000\0000\University\HomeTask\HomeTask\obj\Debug\net7.0\refint\HomeTask.dll
+C:\Users\del\OneDrive\Documents\GitHub\0000\0000\University\HomeTask\HomeTask\obj\Debug\net7.0\HomeTask.pdb
+C:\Users\del\OneDrive\Documents\GitHub\0000\0000\University\HomeTask\HomeTask\obj\Debug\net7.0\HomeTask.genruntimeconfig.cache
+C:\Users\del\OneDrive\Documents\GitHub\0000\0000\University\HomeTask\HomeTask\obj\Debug\net7.0\ref\HomeTask.dll
